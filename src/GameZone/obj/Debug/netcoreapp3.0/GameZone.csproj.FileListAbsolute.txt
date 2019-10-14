@@ -1,0 +1,11 @@
+/Users/joshcook/Documents/Code/academy/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone
+/Users/joshcook/Documents/Code/academy/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone.deps.json
+/Users/joshcook/Documents/Code/academy/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone.runtimeconfig.json
+/Users/joshcook/Documents/Code/academy/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone.runtimeconfig.dev.json
+/Users/joshcook/Documents/Code/academy/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone.dll
+/Users/joshcook/Documents/Code/academy/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone.pdb
+/Users/joshcook/Documents/Code/academy/GameZone/src/GameZone/obj/Debug/netcoreapp3.0/GameZone.csprojAssemblyReference.cache
+/Users/joshcook/Documents/Code/academy/GameZone/src/GameZone/obj/Debug/netcoreapp3.0/GameZone.AssemblyInfoInputs.cache
+/Users/joshcook/Documents/Code/academy/GameZone/src/GameZone/obj/Debug/netcoreapp3.0/GameZone.AssemblyInfo.cs
+/Users/joshcook/Documents/Code/academy/GameZone/src/GameZone/obj/Debug/netcoreapp3.0/GameZone.dll
+/Users/joshcook/Documents/Code/academy/GameZone/src/GameZone/obj/Debug/netcoreapp3.0/GameZone.pdb
